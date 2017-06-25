@@ -1,0 +1,53 @@
+[ 2017-06-22T10:03:03+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018276s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 13 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0503s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0048s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0168s ]
+ERR: 1054:Unknown column 'time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/22 周四' AND `type` = null ORDER BY time desc 
+ERR: 1054:Unknown column 'time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/22 周四' AND `type` = null ORDER BY time desc 
+
+[ 2017-06-22T10:10:46+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001750s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 13 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0011s ]
+ERR: 1054:Unknown column 'time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/22 周四' AND `type` = null ORDER BY time desc 
+ERR: 1054:Unknown column 'time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/22 周四' AND `type` = null ORDER BY time desc 
+
+[ 2017-06-22T10:49:41+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/addTag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+ERR: 非法操作:addTag
+
+[ 2017-06-22T10:49:51+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/tokenLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `ps_users` WHERE `token` = '' LIMIT 1   [ RunTime:0.0004s ]
+

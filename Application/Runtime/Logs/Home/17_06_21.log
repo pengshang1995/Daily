@@ -1,0 +1,1036 @@
+[ 2017-06-21T12:30:26+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-06-21T12:31:57+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+
+[ 2017-06-21T12:32:51+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-06-21T12:32:51+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001208s ]
+
+[ 2017-06-21T12:32:52+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001020s ]
+
+[ 2017-06-21T12:32:52+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001019s ]
+
+[ 2017-06-21T12:32:53+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001720s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-21T12:32:53+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2017-06-21T12:32:53+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001555s ]
+
+[ 2017-06-21T12:32:53+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2017-06-21T12:32:53+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002606s ]
+
+[ 2017-06-21T12:37:48+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: res D:\website\daily\Application\Home\Controller\LoginController.class.php 第 26 行.
+
+[ 2017-06-21T12:38:03+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-21T12:44:52+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/loginTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-21T13:02:03+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `ps_users` (`username`,`password`,`token`) VALUES ('','','0') [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ps_users` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2017-06-21T13:04:46+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `ps_users` (`username`,`password`,`token`) VALUES ('','','11') [ RunTime:0.0003s ]
+SQL: SELECT * FROM `ps_users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-21T13:05:25+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-21T13:05:42+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `ps_users` (`username`,`password`,`token`) VALUES ('','','a1430e66d7b8c1cc9356df2091733d85') [ RunTime:0.0003s ]
+SQL: SELECT * FROM `ps_users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-21T13:21:01+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-21T13:21:37+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `ps_users` (`username`,`password`,`token`) VALUES ('','','980612c05eb1891da2b090035b56ec18') [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0010s ]
+SQL: INSERT INTO `ps_tag` (`tag`,`uid`,`createTime`) VALUES ('默认','5','1498022497') [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ps_users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-21T13:47:06+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `ps_users` (`username`,`password`,`token`) VALUES ('','','b162edb9d5d2918b041e52c3f8bdf80e') [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0009s ]
+SQL: INSERT INTO `ps_tag` (`tag`,`uid`,`createTime`) VALUES ('默认','6','1498024026') [ RunTime:0.0004s ]
+SQL: SELECT * FROM `ps_users` WHERE `id` = 6 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-21T13:47:17+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/region
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001657s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `ps_users` WHERE `username` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-21T13:51:15+08:00 ] 127.0.0.1 /daily/index.php/Home/Login/tokenLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `ps_users` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\ThinkPHP\Library\Think\Db\Driver.class.php 第 550 行.
+NOTIC: [8] Undefined offset: 0 D:\website\daily\ThinkPHP\Library\Think\Db\Driver.class.php 第 596 行.
+NOTIC: [8] Undefined offset: 0 D:\website\daily\ThinkPHP\Library\Think\Db\Driver.class.php 第 596 行.
+NOTIC: [8] Undefined offset: 0 D:\website\daily\ThinkPHP\Library\Think\Db\Driver.class.php 第 597 行.
+NOTIC: [8] Undefined offset: 0 D:\website\daily\ThinkPHP\Library\Think\Db\Driver.class.php 第 600 行.
+SQL: SELECT * FROM `ps_users` WHERE ( `token` = null  ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-21T15:12:25+08:00 ] 127.0.0.1 /daily/index.php/Home/Tag/tagList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\TagController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `ps_tag` WHERE `uid` = null  [ RunTime:0.0003s ]
+
+[ 2017-06-21T15:36:03+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 12 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: data D:\website\daily\Application\Home\Controller\DailyController.class.php 第 23 行.
+
+[ 2017-06-21T15:36:29+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 12 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: data D:\website\daily\Application\Home\Controller\DailyController.class.php 第 23 行.
+
+[ 2017-06-21T15:37:24+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 12 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: data D:\website\daily\Application\Home\Controller\DailyController.class.php 第 24 行.
+
+[ 2017-06-21T15:40:53+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: data D:\website\daily\Application\Home\Controller\DailyController.class.php 第 49 行.
+
+[ 2017-06-21T15:41:12+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: data D:\website\daily\Application\Home\Controller\DailyController.class.php 第 48 行.
+
+[ 2017-06-21T15:59:29+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001493s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null ORDER BY createDate LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+
+[ 2017-06-21T16:01:22+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null ORDER BY createDate LIMIT 1   [ RunTime:0.0023s ]
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+
+[ 2017-06-21T16:01:23+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001959s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null ORDER BY createDate LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+
+[ 2017-06-21T16:01:23+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null ORDER BY createDate LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+
+[ 2017-06-21T16:01:36+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ps_daily` ORDER BY createDate LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+
+[ 2017-06-21T16:01:36+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ps_daily` ORDER BY createDate LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+
+[ 2017-06-21T16:01:56+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001646s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ps_daily` GROUP BY createDate LIMIT 1   [ RunTime:0.0015s ]
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+
+[ 2017-06-21T16:14:03+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+
+[ 2017-06-21T16:14:19+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:14:20+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:14:20+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:14:41+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:14:42+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:14:42+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:14:42+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:15:15+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:15:16+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:15:16+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:15:16+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:16:01+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 64 行.
+
+[ 2017-06-21T16:16:01+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 64 行.
+
+[ 2017-06-21T16:16:15+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_daily`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: createDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 64 行.
+
+[ 2017-06-21T16:16:25+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ps_daily`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: createDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+
+[ 2017-06-21T16:16:28+08:00 ] 127.0.0.1 /daily/index.php/Home/Tag/tagList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\TagController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `uid` = null ORDER BY createTime asc  [ RunTime:0.0019s ]
+
+[ 2017-06-21T16:16:39+08:00 ] 127.0.0.1 /daily/index.php/Home/Tag/tagList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\TagController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `ps_tag` WHERE `uid` = null ORDER BY createTime asc  [ RunTime:0.0008s ]
+
+[ 2017-06-21T16:16:41+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: createDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 57 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 63 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 64 行.
+
+[ 2017-06-21T16:17:18+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: createDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 58 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 65 行.
+
+[ 2017-06-21T16:17:46+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 64 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 65 行.
+
+[ 2017-06-21T16:20:44+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: m D:\website\daily\Application\Home\Controller\DailyController.class.php 第 62 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 65 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 66 行.
+
+[ 2017-06-21T16:22:38+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_daily`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 66 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 67 行.
+
+[ 2017-06-21T16:23:17+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: countDate D:\website\daily\Application\Home\Controller\DailyController.class.php 第 66 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 67 行.
+
+[ 2017-06-21T16:23:34+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+NOTIC: [8] Undefined variable: Res D:\website\daily\Application\Home\Controller\DailyController.class.php 第 66 行.
+
+[ 2017-06-21T16:27:07+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+
+[ 2017-06-21T16:31:12+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/dailyList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 14 行.
+NOTIC: [8] Undefined index: user D:\website\daily\Application\Home\Controller\DailyController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `ps_tag` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ps_tag` WHERE `tag` = '默认' AND `uid` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ps_daily` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ps_daily` WHERE `uid` = null AND `createDate` = '17/06/21 周三' AND `type` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 D:\website\daily\Application\Home\Controller\DailyController.class.php 第 56 行.
+
+[ 2017-06-21T20:44:16+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+
+[ 2017-06-21T20:44:38+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-06-21T20:47:20+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-06-21T20:48:02+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-06-21T20:48:39+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-06-21T20:49:00+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\website\daily\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savepath D:\website\daily\Application\Home\Controller\DailyController.class.php 第 177 行.
+NOTIC: [8] Undefined index: savename D:\website\daily\Application\Home\Controller\DailyController.class.php 第 177 行.
+
+[ 2017-06-21T20:57:08+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\website\daily\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savepath D:\website\daily\Application\Home\Controller\DailyController.class.php 第 175 行.
+NOTIC: [8] Undefined index: savename D:\website\daily\Application\Home\Controller\DailyController.class.php 第 175 行.
+
+[ 2017-06-21T20:57:47+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\website\daily\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-06-21T20:59:34+08:00 ] 127.0.0.1 /daily/index.php/Home/Daily/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\website\daily\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
